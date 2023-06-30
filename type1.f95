@@ -16,6 +16,7 @@ contains
 
         write(*,*) "Making type1_t"
         allocate(type1_t :: object)
+
     end subroutine
     
 
