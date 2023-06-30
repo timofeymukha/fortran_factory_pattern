@@ -8,7 +8,7 @@ module base
     end type
 contains
     subroutine print_name()
-        write(*,*) "I am type1_t"
+        write(*,*) "I am base_t"
     end subroutine
 
 
